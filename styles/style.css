@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Enriqueta|Roboto:300');
+body {
+  padding: 50px;
+  font: 14px sans-serif;
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+  background-color: #8e9416e3;
+}
+
+a {
+  color: rgb(170, 31, 31);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: 'Enriqueta', serif;
+}
+
+h1::before {
+  padding-left: 20px;
+}
+
+#table-wrapper {
+  font-size: 2em;
+}
+
+select {
+  padding: 10px;
+  border: 4px;
+}
+
+.and {
+  padding-left: 10px;
+}
